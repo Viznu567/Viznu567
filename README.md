@@ -8,6 +8,7 @@ Cybersecurity graduate (B.Tech, 2026) aiming for an entry-level SOC Analyst role
 
 | Project | What it does |
 |---|---|
+| [Phishing Email Detection](https://github.com/Viznu567/phishing-email-detection) | Python prototype that monitors a Gmail inbox, scores emails for phishing risk with rule-based checks, looks up domains on VirusTotal, and shows alerts in a Streamlit dashboard |
 | [Web Security Assessment Tool](https://github.com/Viznu567/web-security-scanner) | Python scanner that checks HTTPS, security headers, cookies, information disclosure, and risky HTTP methods, and writes Markdown and HTML reports |
 
 ## Currently learning
@@ -15,8 +16,7 @@ Cybersecurity graduate (B.Tech, 2026) aiming for an entry-level SOC Analyst role
 - TryHackMe security paths
 
 ## Skills
-Python · Wireshark · Nmap · Burp Suite · Kali Linux · Windows · Linux · Networking fundamentals · Vulnerability assessment
-
+Python · Gmail API · Streamlit · VirusTotal API · Wireshark · Nmap · Burp Suite · Kali Linux · Windows · Linux · Networking fundamentals · Vulnerability assessment
 ## Certifications and training
 - Cyber Security Professional Plus (CSPP), SKILLOGIC
 - Claude Code 101 and Claude Platform 101, Anthropic
